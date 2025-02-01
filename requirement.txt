@@ -1,0 +1,5 @@
+selenium
+pytest
+requests
+xlrd
+pytest-html
